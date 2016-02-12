@@ -8,5 +8,5 @@ This Python program runs the user, an experiment participant, through several qu
 
 
 
-### Analysis:
+### Experiment Analysis:
 This R program runs a MANOVA, factorial ANOVAs, and Levene's Test on the data logged by the Experiment Runner program.
